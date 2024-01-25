@@ -25,7 +25,7 @@ public class TiposVariaveis {
             System.out.println(NUMERO);
             
             //Representando Texto
-            String meuNome = "Gabriel"
+            String meuNome = "Gabriel";
 
 
     }
